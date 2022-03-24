@@ -1,0 +1,19 @@
+{
+  "name": "p3_fourdain_code",
+  "version": "1.0.0",
+  "description": "Scss du projet 3",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/mobile.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OceanceFourdain/Ohmyfood.git"
+  },
+  "author": "Océance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OceanceFourdain/Ohmyfood/issues"
+  },
+  "homepage": "https://github.com/OceanceFourdain/Ohmyfood#readme"
+}
