@@ -218,7 +218,7 @@
   color: #001534;
 }
 
-.nav__link a:hover {
+.nav__link a:hover  {
   color: #fff;
 }
 
@@ -1239,7 +1239,7 @@ a {
   .menu {
     padding: 10px 20px;
     height: 100%;
-    width: calc(100% - 40px);
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
     background: #f6f6f6;
@@ -1393,7 +1393,7 @@ a {
   .menu {
     padding: 10px 20px;
     height: 100%;
-    width: 100%;
+    width: calc(100% - 40px);
     background: #f6f6f6;
   }
   .menu > h3 {
